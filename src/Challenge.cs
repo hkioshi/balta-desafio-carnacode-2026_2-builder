@@ -11,6 +11,9 @@ namespace DesignPatternChallenge
     // Contexto: Sistema de BI que gera relatórios customizados para diferentes departamentos
     // Cada relatório pode ter dezenas de configurações opcionais
     
+
+
+    //Product
     public class SalesReport
     {
         public string Title { get; set; }
